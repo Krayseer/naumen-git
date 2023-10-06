@@ -1,4 +1,4 @@
 package ru.naumen;
 
-public class Context {
+public final class Context {
 }
