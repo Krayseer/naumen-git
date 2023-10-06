@@ -1,4 +1,4 @@
 package ru.naumen;
 
-public interface Context {
+public final class Context {
 }
